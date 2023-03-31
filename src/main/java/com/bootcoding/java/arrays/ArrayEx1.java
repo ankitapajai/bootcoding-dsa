@@ -25,6 +25,7 @@ package com.bootcoding.java.arrays;
             System.out.println("Roll no is " +rollno[2]);
             System.out.println("Age is :" + age[0]);
         }
+
     }
 
 
