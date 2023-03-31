@@ -2,6 +2,7 @@ package com.bootcoding.java.basic;
 
 public class ArithmaticEx2{
         public static void main(String [] args){
+
             int a = 2;
             int b = 3;
 
