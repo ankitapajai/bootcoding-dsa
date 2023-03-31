@@ -13,6 +13,7 @@ package com.bootcoding.java.basic;
             int f = a/b;
             double g = a/b;
             int h = a%b;
+
             System.out.println(a);
             System.out.println(b);
             System.out.println(c);
